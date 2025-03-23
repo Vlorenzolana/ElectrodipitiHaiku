@@ -1,5 +1,24 @@
 // Splitting a String based on spaces
-String spaceswords = " electrodipity casuality political sense awarenes generations order find cracks chance crafts science technology emancipation protocol rules commands code democratization humanization science freedom realign relationship universal knowledge create own way protocol system digital rules data exchange signal frecuency errors translated machines patterns visual disruptives aleatoric poetics algorithms instructions repetitions casual intentionated unexpected results randomness beauty belong anyone aware serendipity faculty making  fortunate discoveries accident consecuence desire escape impossed constrains be unique prince highness travelled always discoveries accidents sagacity things quest think magnet play electro-signals TV screen years pioneer computer graphic generate automatic irregularity invented irregularity invented microwave right after walking past radar tube noticing chocolate bar melted comment respect internet universal interconnections host net independence physical networks treatequal address indentify connection individual computer detection trasnmission error acknowlegdements loss information sequence control flow take place agreed be";
+String spaceswords = " electrodipity casuality political 
+sense awarenes generations order find cracks chance crafts 
+science technology emancipation protocol rules commands code 
+democratization humanization science freedom realign 
+relationship universal knowledge create own way protocol 
+system digital rules data exchange signal frecuency errors 
+translated machines patterns visual disruptives aleatoric 
+poetics algorithms instructions repetitions casual intentionated 
+unexpected results randomness beauty belong anyone aware 
+serendipity faculty making  fortunate discoveries accident 
+consecuence desire escape impossed constrains be unique prince 
+highness travelled always discoveries accidents sagacity things 
+quest think magnet play electro-signals TV screen years pioneer 
+computer graphic generate automatic irregularity invented 
+irregularity invented microwave right after walking past radar 
+tube noticing chocolate bar melted comment respect internet 
+universal interconnections host net independence physical 
+networks treatequal address indentify connection individual 
+computer detection trasnmission error acknowlegdements loss 
+information sequence control flow take place agreed be";
 String[] list = split(spaceswords, " ");
 for (int i = 0; i < list.length; i++) {
   println(list[i] + " " + i);
