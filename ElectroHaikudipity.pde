@@ -46,6 +46,10 @@ for (int i = 0; i < list.length; i++) {
   int word9 = round(randomValue9);
   int word10 = round(randomValue10);
   
-  println(list[word1] + " " + list[word2] + " " + list[word3] + "/" + list[word4] + " " + list[word5] + " " + list[word6] + " " + list[word7] + "/" + list[word8] + " " + list[word9] + " " + list[word10]);
+  println(list[word1] + " " + list[word2] + " 
+" + list[word3] + "/" + list[word4] + " 
+" + list[word5] + " " + list[word6] + " 
+" + list[word7] + "/" + list[word8] + " 
+" + list[word9] + " " + list[word10]);
   }
 }
